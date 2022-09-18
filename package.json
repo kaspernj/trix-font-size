@@ -1,0 +1,24 @@
+{
+  "name": "trix-font-size",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaspernj/trix-font-size.git"
+  },
+  "keywords": [
+    "trix",
+    "font",
+    "size"
+  ],
+  "author": "k@spernj.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaspernj/trix-font-size/issues"
+  },
+  "homepage": "https://github.com/kaspernj/trix-font-size#readme"
+}
